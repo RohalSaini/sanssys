@@ -1,14 +1,14 @@
 [
     {
-        "id": 1,
-        "body": "First Item",
-        "severity": 1,
-        "status": 0
+        "id": 0,
+        "name": "CSS/HTML",
+        "description": "It is web app with",
+        "imagePath": "https://raw.githubusercontent.com/RohalSaini/sanssys/main/css.jpg"
     },
     {
-        "id": 2,
-        "body": "Second Item",
-        "severity": 2,
-        "status": 1
+        "id": 1,
+        "name": "Web Development",
+        "description": "It is css/html course ",
+        "imagePath": "https://raw.githubusercontent.com/RohalSaini/sanssys/main/computer-basics.png"
     }
 ]
