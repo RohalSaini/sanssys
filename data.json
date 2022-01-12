@@ -1,7 +1,26 @@
 [
- {"id": 1, "review": "good", "user": "rohal"},
- {"id": 2, "review": "good", "user": "rohal"},
- {"id": 3, "review": "good", "user": "rohal"},
- {"id": 4, "review": "good", "user": "rohal"},
- {"id": 5, "review": "good", "user": "rohal"}
+  {
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
+    }
+  },
+  {
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
+  },
+  {
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
 ]
