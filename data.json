@@ -1,26 +1,14 @@
 [
   {
-    "name": "Meowsy",
-    "species" : "cat",
-    "foods": {
-      "likes": ["tuna", "catnip"],
-      "dislikes": ["ham", "zucchini"]
-    }
+    "id": 0,
+    "name" : "HTML/CSS",
+    "description":"Give your website and amazing UI with our customise Web Design and Development packages in our Company in Hoshiarpur Punjab. If you are going to be online, then you need a proper website- one built by professionals who are passionate about what they do, and offer you comprehensive web design packages prices in India.",
+    "imagePath":"https://raw.githubusercontent.com/RohalSaini/sanssys/main/css.jpg"
   },
-  {
-    "name": "Barky",
-    "species" : "dog",
-    "foods": {
-      "likes": ["bones", "carrots"],
-      "dislikes": ["tuna"]
-    }
+   {
+    "id": 1,
+    "name" : "Python",
+    "description":"Give your website and amazing UI with our customise Web Design and Development packages in our Company in Hoshiarpur Punjab. If you are going to be online, then you need a proper website- one built by professionals who are passionate about what they do, and offer you comprehensive web design packages prices in India.",
+    "imagePath":"https://raw.githubusercontent.com/RohalSaini/sanssys/main/python.png.png"
   },
-  {
-    "name": "Purrpaws",
-    "species" : "cat",
-    "foods": {
-      "likes": ["mice"],
-      "dislikes": ["cookies"]
-    }
-  }
 ]
